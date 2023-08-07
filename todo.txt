@@ -1,3 +1,0 @@
-make styles match ao3
-make onkeyup only respond to alphanum. maybe also space and/or enter
-don't fetch text every single time?
